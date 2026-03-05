@@ -1,0 +1,47 @@
+{
+  "SE428152696DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "René Böger, Goethestr. 27b, 59755 Arnsberg, Deutschland",
+    "price": "4.000,00 €",
+    "description": "Hersteller: Horex<br>Typ: Regina 350<br>Fahrgestelnummer: 12615962R<br>Erstzulassung: 08/1952<br>KM laut Vorbesitzer: 27.902 km<br>Leistung: 13 kW (18 PS)<br>Hubraum: 342 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "René Böger<br>Goethestr. 27b<br>59755 Arnsberg<br>Deutschland<br>Telefon: +49 163 7473906",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "05.03.2026",
+    "deliveryDate": "12.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
